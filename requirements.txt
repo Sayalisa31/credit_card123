@@ -39,18 +39,12 @@ numpy==1.18.1
 packaging==20.9
 pandas==0.25.3
 Pillow==8.3.0
-pipwin==0.5.1
 psutil==5.6.7
-PyAudio @ file:///C:/Users/ss/pipwin/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
-PyAutoGUI==0.9.52
-pygame==2.0.1
 PyGetWindow==0.0.9
-pyjokes==0.6.0
 pyjsparser==2.7.1
 PyMsgBox==1.0.9
 pyparsing==2.4.6
 pyperclip==1.8.2
-pypiwin32==223
 PyPrind==2.11.3
 PyRect==0.1.4
 pyrsistent==0.15.7
