@@ -54,8 +54,6 @@ python-dateutil==2.8.1
 pyttsx3==2.90
 PyTweening==1.0.3
 pytz==2019.3
-pywhatkit==4.9
-pywin32==301
 PyYAML==5.3
 regexp==0.1
 requests==2.25.1
